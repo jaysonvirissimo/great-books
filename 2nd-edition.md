@@ -1,18 +1,23 @@
-Volume 1
+### Volume 1
 
 The Great Conversation
-Volume 2
+
+### Volume 2
 
 Syntopicon I: Angel, Animal, Aristocracy, Art, Astronomy, Beauty, Being, Cause, Chance, Change, Citizen, Constitution, Courage, Custom and Convention, Definition, Democracy, Desire, Dialectic, Duty, Education, Element, Emotion, Eternity, Evolution, Experience, Family, Fate, Form, God, Good and Evil, Government, Habit, Happiness, History, Honor, Hypothesis, Idea, Immortality, Induction, Infinity, Judgment, Justice, Knowledge, Labor, Language, Law, Liberty, Life and Death, Logic, and Love
-Volume 3
+
+### Volume 3
 
 Syntopicon II: Man, Mathematics, Matter, Mechanics, Medicine, Memory and Imagination, Metaphysics, Mind, Monarchy, Nature, Necessity and Contingency, Oligarchy, One and Many, Opinion, Opposition, Philosophy, Physics, Pleasure and Pain, Poetry, Principle, Progress, Prophecy, Prudence, Punishment, Quality, Quantity, Reasoning, Relation, Religion, Revolution, Rhetoric, Same and Other, Science, Sense, Sign and Symbol, Sin, Slavery, Soul, Space, State, Temperance, Theology, Time, Truth, Tyranny, Universal and Particular, Virtue and Vice, War and Peace, Wealth, Will, Wisdom, and World
-Volume 4
+
+
+### Volume 4
 
 Homer (rendered into English prose by Samuel Butler)
 The Iliad
 The Odyssey
-Volume 5
+
+### Volume 5
 
 Aeschylus (translated into English verse by G.M. Cookson)
 The Suppliant Maidens
@@ -64,13 +69,15 @@ Lysistrata
 Thesmophoriazusae
 Ecclesiazousae
 Plutus
-Volume 6
+
+### Volume 6
 
 Herodotus
 The History (translated by George Rawlinson)
 Thucydides
 History of the Peloponnesian War (translated by Richard Crawley and revised by R. Feetham)
-Volume 7
+
+### Volume 7
 
 Plato
 The Dialogues (translated by Benjamin Jowett)
@@ -99,7 +106,8 @@ Statesman
 Philebus
 Laws
 The Seventh Letter (translated by J. Harward)
-Volume 8
+
+### Volume 8
 
 Aristotle
 Categories
@@ -115,7 +123,8 @@ Meteorology
 Metaphysics
 On the Soul
 Minor biological works
-Volume 9
+
+### Volume 9
 
 Aristotle
 History of Animals
@@ -128,13 +137,14 @@ Politics
 The Athenian Constitution
 Rhetoric
 Poetics
-Volume 10
+### Volume 10
 
 Hippocrates
 Works
 Galen
 On the Natural Faculties
-Volume 11
+
+### Volume 11
 
 Euclid
 The Thirteen Books of Euclid's Elements
@@ -153,7 +163,8 @@ Apollonius of Perga
 On Conic Sections
 Nicomachus of Gerasa
 Introduction to Arithmetic
-Volume 12
+
+### Volume 12
 
 Lucretius
 On the Nature of Things (translated by H.A.J. Munro)
@@ -161,22 +172,25 @@ Epictetus
 The Discourses (translated by George Long)
 Marcus Aurelius
 The Meditations (translated by George Long)
-Volume 13
+### Volume 13
 
 Virgil
 Eclogues
 Georgics
 Aeneid
-Volume 14
+
+### Volume 14
 
 Plutarch
 The Lives of the Noble Grecians and Romans
-Volume 15
+
+### Volume 15
 
 P. Cornelius Tacitus (translated by Alfred John Church and William Jackson Brodribb)
 The Annals
 The Histories
-Volume 16
+
+### Volume 16
 
 Ptolemy
 Almagest, part 1 (translated by R. Catesby Taliaferro)
@@ -185,48 +199,57 @@ On the Revolutions of Heavenly Spheres (translated by Charles Glenn Wallis)
 Johannes Kepler (translated by Charles Glenn Wallis)
 Epitome of Copernican Astronomy (Books IV–V)
 The Harmonies of the World (Book V)
-Volume 17
+
+### Volume 17
 
 Plotinus
 The Six Enneads
-Volume 18
+
+### Volume 18
 
 Augustine of Hippo
 The Confessions
 The City of God
 On Christian Doctrine
-Volume 19
+
+### Volume 19
 
 Thomas Aquinas
 Summa Theologica (First part complete, selections from second part, translated by the Fathers of the English Dominican Province and revised by Daniel J. Sullivan)
-Volume 20
+
+### Volume 20
 
 Thomas Aquinas
 Summa Theologica (Selections from second and third parts and supplement, translated by the Fathers of the English Dominican Province and revised by Daniel J. Sullivan)
-Volume 21
+
+### Volume 21
 
 Dante Alighieri
 The Divine Comedy (Translated by Charles Eliot Norton)
-Volume 22
+
+### Volume 22
 
 Geoffrey Chaucer
 Troilus and Criseyde
 The Canterbury Tales
-Volume 23
+### Volume 23
 
 Niccolò Machiavelli
 The Prince
 Thomas Hobbes
 Leviathan
-Volume 24
+
+### Volume 24
 
 François Rabelais
 Gargantua and Pantagruel
-Volume 25
+
+### Volume 25
 
 Michel Eyquem de Montaigne
 Essays
-Volume 26
+
+### Volume 26
 
 William Shakespeare
 The First Part of King Henry the Sixth
@@ -249,7 +272,8 @@ Much Ado About Nothing
 The Life of King Henry the Fifth
 Julius Caesar
 As You Like It
-Volume 27
+
+### Volume 27
 
 William Shakespeare
 Twelfth Night; or, What You Will
@@ -270,7 +294,8 @@ The Winter's Tale
 The Tempest
 The Famous History of the Life of King Henry the Eighth
 Sonnets
-Volume 28
+
+### Volume 28
 
 William Gilbert
 On the Loadstone and Magnetic Bodies
@@ -280,17 +305,20 @@ William Harvey
 On the Motion of the Heart and Blood in Animals
 On the Circulation of Blood
 On the Generation of Animals
-Volume 29
+
+### Volume 29
 
 Miguel de Cervantes
 The History of Don Quixote de la Mancha
-Volume 30
+
+### Volume 30
 
 Sir Francis Bacon
 The Advancement of Learning
 Novum Organum
 New Atlantis
-Volume 31
+
+### Volume 31
 
 René Descartes
 Rules for the Direction of the Mind
@@ -300,27 +328,31 @@ Objections Against the Meditations and Replies
 The Geometry
 Benedict de Spinoza
 Ethics
-Volume 32
+
+### Volume 32
 
 John Milton
 English Minor Poems
 Paradise Lost
 Samson Agonistes
 Areopagitica
-Volume 33
+
+### Volume 33
 
 Blaise Pascal
 The Provincial Letters
 Pensées
 Scientific and mathematical essays
-Volume 34
+
+### Volume 34
 
 Sir Isaac Newton
 Mathematical Principles of Natural Philosophy
 Optics
 Christian Huygens
 Treatise on Light
-Volume 35
+
+### Volume 35
 
 John Locke
 A Letter Concerning Toleration
@@ -330,17 +362,20 @@ George Berkeley
 The Principles of Human Knowledge
 David Hume
 An Enquiry Concerning Human Understanding
-Volume 36
+
+### Volume 36
 
 Jonathan Swift
 Gulliver's Travels
 Laurence Sterne
 The Life and Opinions of Tristram Shandy, Gentleman
-Volume 37
+
+### Volume 37
 
 Henry Fielding
 The History of Tom Jones, a Foundling
-Volume 38
+
+### Volume 38
 
 Charles de Secondat, Baron de Montesquieu
 The Spirit of the Laws
@@ -348,19 +383,23 @@ Jean Jacques Rousseau
 A Discourse on the Origin of Inequality
 A Discourse on Political Economy
 The Social Contract
-Volume 39
+
+### Volume 39
 
 Adam Smith
 An Inquiry into the Nature and Causes of the Wealth of Nations
-Volume 40
+
+### Volume 40
 
 Edward Gibbon
 The Decline and Fall of the Roman Empire (Part 1)
-Volume 41
+
+### Volume 41
 
 Edward Gibbon
 The Decline and Fall of the Roman Empire (Part 2)
-Volume 42
+
+### Volume 42
 
 Immanuel Kant
 Critique of Pure Reason
@@ -371,7 +410,8 @@ Preface and Introduction to the Metaphysical Elements of Ethics with a note on C
 General Introduction to the Metaphysic of Morals
 The Science of Right
 The Critique of Judgement
-Volume 43
+
+### Volume 43
 
 American State Papers
 Declaration of Independence
@@ -383,11 +423,13 @@ John Stuart Mill
 On Liberty
 Considerations on Representative Government
 Utilitarianism
-Volume 44
+
+### Volume 44
 
 James Boswell
 The Life of Samuel Johnson, LL.D.
-Volume 45
+
+### Volume 45
 
 Antoine Laurent Lavoisier
 Elements of Chemistry
@@ -395,43 +437,52 @@ Jean Baptiste Joseph Fourier
 Analytical Theory of Heat
 Michael Faraday
 Experimental Researches in Electricity
-Volume 46
+
+### Volume 46
 
 Georg Wilhelm Friedrich Hegel
 The Philosophy of Right
 The Philosophy of History
-Volume 47
+
+### Volume 47
 
 Johann Wolfgang von Goethe
 Faust
-Volume 48
+
+### Volume 48
 
 Herman Melville
 Moby Dick; or, The Whale
-Volume 49
+
+### Volume 49
 
 Charles Darwin
 The Origin of Species by Means of Natural Selection
 The Descent of Man, and Selection in Relation to Sex
-Volume 50
+
+### Volume 50
 
 Karl Marx
 Capital
 Karl Marx and Friedrich Engels
 Manifesto of the Communist Party
-Volume 51
+
+### Volume 51
 
 Count Leo Tolstoy
 War and Peace
-Volume 52
+
+### Volume 52
 
 Fyodor Mikhailovich Dostoevsky
 The Brothers Karamazov
-Volume 53
+
+### Volume 53
 
 William James
 The Principles of Psychology
-Volume 54
+
+### Volume 54
 
 Sigmund Freud
 The Origin and Development of Psycho-Analysis
@@ -453,15 +504,17 @@ Thoughts for the Times on War and Death
 Civilization and Its Discontents
 New Introductory Lectures on Psycho-Analysis
 
-Volume 20
+### Volume 20
 
 John Calvin
 Institutes of the Christian Religion (Selections)
-Volume 23
+
+### Volume 23
 
 Erasmus
 The Praise of Folly
-Volume 31
+
+### Volume 31
 
 Molière
 The School for Wives
@@ -474,41 +527,49 @@ The Imaginary Invalid
 Jean Racine
 Bérénice
 Phèdre
-Volume 34
+
+### Volume 34
 
 Voltaire
 Candide
 Denis Diderot
 Rameau's Nephew
-Volume 43
+
+### Volume 43
 
 Søren Kierkegaard
 Fear and Trembling
 Friedrich Nietzsche
 Beyond Good and Evil
-Volume 44
+
+### Volume 44
 
 Alexis de Tocqueville
 Democracy in America
-Volume 45
+
+### Volume 45
 
 Honoré de Balzac
 Cousin Bette
-Volume 46
+
+### Volume 46
 
 Jane Austen
 Emma
 George Eliot
 Middlemarch
-Volume 47
+
+### Volume 47
 
 Charles Dickens
 Little Dorrit
-Volume 48
+
+### Volume 48
 
 Mark Twain
 Huckleberry Finn
-Volume 52
+
+### Volume 52
 
 Henrik Ibsen
 A Doll's House
@@ -517,7 +578,7 @@ Hedda Gabler
 The Master Builder
 The six volumes of 20th century material consisted of the following:
 
-Volume 55
+### Volume 55
 
 William James
 Pragmatism
@@ -535,7 +596,8 @@ Ludwig Wittgenstein
 Philosophical Investigations
 Karl Barth
 The Word of God and the Word of Man
-Volume 56
+
+### Volume 56
 
 Henri Poincaré
 Science and Hypothesis
@@ -560,7 +622,8 @@ Theodosius Dobzhansky
 Genetics and the Origin of Species
 C. H. Waddington
 The Nature of Life
-Volume 57
+
+### Volume 57
 
 Thorstein Veblen
 The Theory of the Leisure Class
@@ -568,7 +631,8 @@ R. H. Tawney
 The Acquisitive Society
 John Maynard Keynes
 The General Theory of Employment, Interest and Money
-Volume 58
+
+### Volume 58
 
 Sir James George Frazer
 The Golden Bough (selections)
@@ -578,7 +642,8 @@ Johan Huizinga
 The Autumn of the Middle Ages
 Claude Lévi-Strauss
 Structural Anthropology (selections)
-Volume 59
+
+### Volume 59
 
 Henry James
 The Beast in the Jungle
@@ -598,7 +663,8 @@ Thomas Mann
 Death in Venice
 James Joyce
 A Portrait of the Artist as a Young Man
-Volume 60
+
+### Volume 60
 
 Virginia Woolf
 To the Lighthouse
