@@ -2,7 +2,7 @@
   "Homer": [
     "The Iliad",
     "The Odyssey"
-    ],
+  ],
 
   "Aeschylus": [
     "The Suppliant Maidens",
@@ -12,5 +12,15 @@
     "Agamemnon",
     "Choephoroe",
     "The Eumenides"
-    ]
+  ],
+
+  "Sophocles": [
+    "Oedipus the King",
+    "Oedipus at Colonus",
+    "Antigone",
+    "Ajax",
+    "Electra",
+    "The Trachiniae",
+    "Philoctetes"
+  ]
 }
