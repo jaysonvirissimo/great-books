@@ -7,5 +7,5 @@ some are compiled to be sold as a single set of volumes,
 while some lists aim at a thorough literary criticism."
 
 
-This repository is a collection of great book lists in a machine readable format. 
-This should aid those who wish to compare such lists or to make a list of their own.
+This repository consists of a collection of great book lists in a machine readable format. 
+This should aid those who wish to compare such lists or to make one of their own.
