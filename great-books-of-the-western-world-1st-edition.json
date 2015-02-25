@@ -60,6 +60,14 @@
     "Plutus"
   ],
 
+  "Herodotus": [
+    "The History"
+  ],
+
+  "Thucydides": [
+    "History of the Peloponnesian War"
+  ],
+
   "Plato": [
     "Charmides",
     "Lysis",
@@ -86,5 +94,31 @@
     "Philebus",
     "Laws",
     "The Seventh Letter"
+  ],
+
+  "Aristotle": [
+    "Categories",
+    "On Interpretation",
+    "Prior Analytics",
+    "Posterior Analytics",
+    "Topics",
+    "Sophistical Refutations",
+    "Physics",
+    "On the Heavens",
+    "On Generation and Corruption",
+    "Meteorology",
+    "Metaphysics",
+    "On the Soul",
+    "Minor biological works",
+    "History of Animals",
+    "Parts of Animals",
+    "On the Motion of Animals",
+    "On the Gait of Animals",
+    "On the Generation of Animals",
+    "Nicomachean Ethics",
+    "Politics",
+    "The Athenian Constitution",
+    "Rhetoric",
+    "Poetics"
   ]
 }
