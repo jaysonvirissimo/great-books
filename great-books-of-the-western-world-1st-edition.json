@@ -128,5 +128,30 @@
 
   "Galen": [
     "On the Natural Faculties"
+  ],
+  
+  "Euclid": [
+    "Elements"  
+  ],
+  
+  "Archimedes": [
+    "On the Sphere and Cylinder",
+    "Measurement of a Circle",
+    "On Conoids and Spheroids",
+    "On Spirals",
+    "On the Equilibrium of Planes",
+    "The Sand Reckoner",
+    "The Quadrature of the Parabola",
+    "On Floating Bodies",
+    "Book of Lemmas",
+    "The Method Treating of Mechanical Problems"
+  ],
+  
+  "Apollonius of Perga": [
+    "On Conic Sections"  
+  ],
+  
+  "Nicomachus of Gerasa": [
+    "Introduction to Arithmetic"  
   ]
 }
